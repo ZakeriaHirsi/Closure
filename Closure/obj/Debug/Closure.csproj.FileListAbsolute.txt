@@ -1,0 +1,7 @@
+C:\Users\Zak\source\repos\Closure\Closure\bin\Debug\Closure.exe.config
+C:\Users\Zak\source\repos\Closure\Closure\bin\Debug\Closure.exe
+C:\Users\Zak\source\repos\Closure\Closure\bin\Debug\Closure.pdb
+C:\Users\Zak\source\repos\Closure\Closure\obj\Debug\Closure.csprojAssemblyReference.cache
+C:\Users\Zak\source\repos\Closure\Closure\obj\Debug\Closure.csproj.CoreCompileInputs.cache
+C:\Users\Zak\source\repos\Closure\Closure\obj\Debug\Closure.exe
+C:\Users\Zak\source\repos\Closure\Closure\obj\Debug\Closure.pdb
