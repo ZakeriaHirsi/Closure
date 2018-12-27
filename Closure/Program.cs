@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Closure
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Func<int, int> MyDelegate = GetFunc();
-
 
             Console.WriteLine(MyDelegate(5));
             Console.WriteLine(MyDelegate(6));
